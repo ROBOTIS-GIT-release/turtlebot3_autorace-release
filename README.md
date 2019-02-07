@@ -1,3 +1,31 @@
+## turtlebot3_autorace (melodic) - 1.2.0-0
+
+The packages in the `turtlebot3_autorace` repository were released into the `melodic` distro by running `/usr/bin/bloom-release turtlebot3_autorace -t melodic -r melodic --edit` on `Thu, 07 Feb 2019 07:47:49 -0000`
+
+These packages were released:
+- `turtlebot3_autorace`
+- `turtlebot3_autorace_camera`
+- `turtlebot3_autorace_control`
+- `turtlebot3_autorace_core`
+- `turtlebot3_autorace_detect`
+
+Version of package(s) in repository `turtlebot3_autorace`:
+
+- upstream repository: https://github.com/ROBOTIS-GIT/turtlebot3_autorace.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.2.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.7.2`
+- catkin_pkg version: `0.4.10`
+- rosdep version: `0.15.0`
+- rosdistro version: `0.7.2`
+- vcstools version: `0.1.40`
+
+
 ## turtlebot3_autorace (kinetic) - 1.1.0-0
 
 The packages in the `turtlebot3_autorace` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release turtlebot3_autorace -t kinetic -r kinetic --edit` on `Wed, 30 May 2018 04:40:08 -0000`
